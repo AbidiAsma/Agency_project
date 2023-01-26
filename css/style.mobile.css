@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+}
+header{
+    flex-direction: column;
+}
+header ul{
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+}
+.vp-content h1{
+    font-size: 2rem;
+}
+.vp-content p{
+    font-size: 1.5rem;
+}
+.offer-list {
+    flex-direction: column;
+}
+.who{
+    flex-direction: column;
+}
